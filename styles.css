@@ -58,3 +58,9 @@ body {
     color: #333;
     margin-top: 30px;
 }
+.Border-code{
+    border: 1px solid #A5B68D;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
